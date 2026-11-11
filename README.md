@@ -114,4 +114,4 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 ---
 
 ### 📬 Get in Touch
-* **Telegram:** [@LinaSuvv](https://t.me)
+* **Telegram:** [@LinaSuvv](https://t.me/LinaSuvv)
