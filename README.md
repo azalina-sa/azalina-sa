@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**AZALINA KALEDA**
+## AZALINA KALEDA
 
 **Technical Business Analyst | Technical Product Manager**<br>
 Email: azalina.kaleda@gmail.com 
 
-**INTERNATIONAL PROFESSIONAL SUMMARY**
+### INTERNATIONAL PROFESSIONAL SUMMARY
 
 Highly analytical and tech-driven Technical Product Manager / Technical Business Analyst with 14+ years of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
 
@@ -27,7 +27,7 @@ Highly analytical and tech-driven Technical Product Manager / Technical Business
 
 `REST API` `Swagger / OpenAPI` `JSON` `Apache Kafka` `Oracle DB` `PostgreSQL` `SQL` `Python` `Postman` `Jira` `Confluence` `MS Visio` `draw.io` `BPMN 2.0` `UML`<br> 
 
-**TECHNICAL & CORE SKILLS**
+### TECHNICAL & CORE SKILLS
 
 **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
 **APIs & System Integration**: REST API Design, JSON Payload Structures, Swagger, System Integration.<br>
@@ -35,9 +35,9 @@ Highly analytical and tech-driven Technical Product Manager / Technical Business
 **Domain Expertise**: Backend Development Logic, Warehouse Management Systems (WMS), PSIwms, Manhattan WMS, Pilot Support.<br>
 **Tools & Software**: Jira, Confluence, Postman, Microsoft Visio, draw.io.<br>
 
-**PROFESSIONAL EXPERIENCE**
+### PROFESSIONAL EXPERIENCE
 
-BEELINE (Top-Tier Telecom Carrier with 50M+ Subscribers) | Moscow<br>
+#### BEELINE (Top-Tier Telecom Carrier with 50M+ Subscribers) | Moscow<br>
 Senior Systems Analyst | May 2024 — September 2026<br>
 
 🛠 **Stack**: Python, Angular, React, PostgreSQL, Oracle Database, Apache Kafka, Web & Mobile Apps (iOS/Android), Confluence, Jira.<br>
@@ -47,7 +47,7 @@ Senior Systems Analyst | May 2024 — September 2026<br>
 🎯 **Lifecycle Technical Ownership**: Managed specifications from initial stakeholder gathering through UI/UX alignment, effort estimation, and testing (QA), successfully eliminating requirement drift and accelerating time-to-market.<br>
  
  
-X5 GROUP (Europe’s Leading Retail & Logistics Network) | Moscow, Russia<br>
+#### X5 GROUP (Europe’s Leading Retail & Logistics Network) | Moscow, Russia<br>
 Senior Systems Analyst / Technical Product Manager | May 2017 — November 2023<br>
 
 🛠 **Stack**: Java, Oracle, SQL, Manhattan WMS, Apache Kafka, Delphi, Forte, iOS/Android, Confluence, Jira.
@@ -57,7 +57,7 @@ Senior Systems Analyst / Technical Product Manager | May 2017 — November 2023<
 ⚙️ **Enterprise Software Modification (2017–2020)**: Managed continuous feature enhancements for in-house applications and desktop-based WMS modules, analyzing operational requests to write functional specifications and supporting pilot launches.<br>
  
  
-MILAVITSA (Manufacturing & Logistics Network) | Minsk, Belarus<br>
+#### MILAVITSA (Manufacturing & Logistics Network) | Minsk, Belarus<br>
 Technical Business Analyst | October 2012 — October 2014<br>
 
 ⚙️ **Actively contributed to the technical integration and deployment** of an automated logistics center, collaborating on the rollout of the PSIwms platform, SSI SCHAEFER conveyor systems, and EuroSort sorting lines.<br>
@@ -65,7 +65,7 @@ Technical Business Analyst | October 2012 — October 2014<br>
 🧪 **Executed rigorous integration and end-to-end (E2E) testing** across software and hardware layers, working through deployment challenges to successfully stabilize and launch the pilot system.<br>
  
  
-CAPITAL LOGISTIC (Logistics & Supply Chain) | Minsk, Belarus<br>
+#### CAPITAL LOGISTIC (Logistics & Supply Chain) | Minsk, Belarus<br>
 Business Systems Analyst | December 2010 — September 2012<br>
 
 🌐 **Contributed to the technical deployment of the Logistic Vision WMS** platform, customizing the system to align with specific customer operational workflows.<br>
@@ -73,7 +73,7 @@ Business Systems Analyst | December 2010 — September 2012<br>
 🚀 **Executed user acceptance testing (UAT)** and provided dedicated analytical support during pilot implementation and rollout phases.<br>
  
  
-**EDUCATION & CERTIFICATIONS**
+### EDUCATION & CERTIFICATIONS
 
 B.Sc./M.Sc. in Information Technology & Systems Control Engineering Belarusian State University of Informatics and Radioelectronics (BSUIR) | Graduation: 2007
 
