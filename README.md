@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **Technical Business Analyst | Technical Product Manager**<br>
 Email: azalina.kaleda@gmail.com 
 
-### INTERNATIONAL PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
 
 Highly analytical and tech-driven Technical Product Manager / Technical Business Analyst with 14+ years of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
 
