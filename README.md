@@ -27,6 +27,9 @@ Highly analytical and tech-driven Technical Product Manager / Technical Business
 
 `REST API` `Swagger / OpenAPI` `JSON` `Apache Kafka` `Oracle DB` `PostgreSQL` `SQL` `Python` `Postman` `Jira` `Confluence` `MS Visio` `draw.io` `BPMN 2.0` `UML`<br> 
 
+![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,mysql,kafka,postman,python,git)
+
+
 ### TECHNICAL & CORE SKILLS
 
 **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
