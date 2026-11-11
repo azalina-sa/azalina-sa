@@ -27,7 +27,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 TECH STACK & TOOLS
 
 `REST API` `Swagger` `OpenAPI` `JSON` `Apache Kafka` `Oracle DB` `PostgreSQL` `SQL` `Python` `Postman` `Jira` `Confluence` `MS Visio` `draw.io` `BPMN 2.0` `UML`<br> 
 
