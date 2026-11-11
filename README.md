@@ -1,3 +1,5 @@
+![Banner](Миграция-данных-C-Delphi.jpeg)
+
 ## Hi there 👋
 
 <!--
