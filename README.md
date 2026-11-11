@@ -37,11 +37,17 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ### ⚡ TECHNICAL & CORE SKILLS
 
-**Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
-**APIs & System Integration**: REST API Design, JSON Payload Structures, Swagger, System Integration.<br>
-**Databases & Data Modeling**: Oracle Database, SQL, Relational Data Modeling, Business Process Modeling (BPMN, UML).<br>
-**Domain Expertise**: Backend Development Logic, Warehouse Management Systems (WMS), PSIwms, Manhattan WMS, Pilot Support.<br>
-**Tools & Software**: Jira, Confluence, Postman, Microsoft Visio, draw.io.<br>
+TECH STACK & TOOLS
+REST API Swagger OpenAPI JSON Apache Kafka Oracle DB PostgreSQL SQL Python Postman Jira Confluence MS Visio draw.io BPMN 2.0 UML
+
+
+
+⚡ TECHNICAL & CORE SKILLS
+* **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
+* **APIs & System Integration**: RESTful API Design, Event-Driven Architecture (Message Brokering), JSON Payload Modeling, Legacy-to-Web System Migration.<br>
+* **Data & Process Modeling:** Relational Data Modeling, Query Optimization, Business Process Modeling, End-to-End Sequence & Data-Flow Design.<br>
+* **Domain Expertise**: Backend Development Logic, Warehouse Management Systems (WMS), PSIwms, Manhattan WMS, Pilot Support.<br>
+* **Domain Expertise:** Warehouse Management Systems (PSIwms, Manhattan WMS), Supply Chain & Logistics Automation, Telecom Digital Platforms, Pilot Launch & UAT Support.<br>
 
 ---
 
