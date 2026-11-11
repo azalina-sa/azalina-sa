@@ -25,16 +25,18 @@ Highly analytical and tech-driven Technical Product Manager / Technical Business
 
 ### 🛠 Tech Stack & Tools
 
-![REST API](https://shields.io)
-![Swagger](https://shields.io)
-![JSON](https://shields.io)
-![Oracle](https://shields.io)
-![SQL](https://shields.io)
-![Postman](https://shields.io)
-![Jira](https://shields.io)
-![Confluence](https://shields.io)
-![Visio](https://shields.io)
-![draw.io](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" alt="Oracle" width="38" height="38" title="Oracle Database"/>
+  <img src="https://jsdelivr.net" alt="PostgreSQL" width="38" height="38" title="PostgreSQL"/>
+  <img src="https://jsdelivr.net" alt="Kafka" width="38" height="38" title="Apache Kafka"/>
+  <img src="https://jsdelivr.net" alt="Swagger" width="38" height="38" title="Swagger / OpenAPI"/>
+  <img src="https://jsdelivr.net" alt="Postman" width="38" height="38" title="Postman"/>
+  <img src="https://jsdelivr.net" alt="JSON" width="38" height="38" title="JSON"/>
+  <img src="https://jsdelivr.net" alt="Python" width="38" height="38" title="Python"/>
+  <img src="https://jsdelivr.net" alt="Jira" width="38" height="38" title="Jira"/>
+  <img src="https://jsdelivr.net" alt="Confluence" width="38" height="38" title="Confluence"/>
+</p><br> 
+
 **TECHNICAL & CORE SKILLS**
 
 **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
