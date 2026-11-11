@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **Technical Business Analyst | Technical Product Manager**<br>
 Email: azalina.kaleda@gmail.com -->
 
-### PROFESSIONAL SUMMARY
+### 👤 PROFESSIONAL SUMMARY
 
 Highly analytical and tech-driven **Technical Business Analyst / Technical Product Manager** with **14+ years** of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
 
@@ -35,7 +35,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ---
 
-### TECHNICAL & CORE SKILLS
+### ⚡ TECHNICAL & CORE SKILLS
 
 **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
 **APIs & System Integration**: REST API Design, JSON Payload Structures, Swagger, System Integration.<br>
@@ -45,7 +45,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ---
 
-### PROFESSIONAL EXPERIENCE
+### 💼 PROFESSIONAL EXPERIENCE
 
 #### **BEELINE** (Top-Tier Telecom Carrier with 50M+ Subscribers) | *Moscow, Russia* <br>
 **Senior Systems Analyst** • *May 2024 — September 2026*<br>
