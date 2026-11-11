@@ -1,4 +1,4 @@
-![Banner](Миграция-данных-C-Delphi.jpeg)
+![Banner](Banner1.png)
 
 ## Hi there 👋
 
