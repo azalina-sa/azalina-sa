@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## AZALINA KALEDA
+<!-- ## AZALINA KALEDA -->
 
 **Technical Business Analyst | Technical Product Manager**<br>
 Email: azalina.kaleda@gmail.com 
