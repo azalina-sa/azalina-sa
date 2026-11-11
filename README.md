@@ -36,13 +36,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 ---
 
 ### ⚡ TECHNICAL & CORE SKILLS
-
-TECH STACK & TOOLS
-REST API Swagger OpenAPI JSON Apache Kafka Oracle DB PostgreSQL SQL Python Postman Jira Confluence MS Visio draw.io BPMN 2.0 UML
-
-
-
-⚡ TECHNICAL & CORE SKILLS
+  
 * **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
 * **APIs & System Integration**: RESTful API Design, Event-Driven Architecture (Message Brokering), JSON Payload Modeling, Legacy-to-Web System Migration.<br>
 * **Data & Process Modeling:** Relational Data Modeling, Query Optimization, Business Process Modeling, End-to-End Sequence & Data-Flow Design.<br>
