@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ## AZALINA KALEDA
 
+**Technical Business Analyst • Technical Product Manager**
+
+<!-- ## AZALINA KALEDA
 **Technical Business Analyst | Technical Product Manager**<br>
+### Technical Business Analyst | Technical Product Manager
+**Technical Business Analyst • Technical Product Manager**
 Email: azalina.kaleda@gmail.com -->
 
 ### 👤 PROFESSIONAL SUMMARY
