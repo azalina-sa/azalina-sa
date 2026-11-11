@@ -23,6 +23,18 @@ Email: azalina.kaleda@gmail.com
 
 Highly analytical and tech-driven Technical Product Manager / Technical Business Analyst with 14+ years of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
 
+### 🛠 Tech Stack & Tools
+
+![REST API](https://shields.io)
+![Swagger](https://shields.io)
+![JSON](https://shields.io)
+![Oracle](https://shields.io)
+![SQL](https://shields.io)
+![Postman](https://shields.io)
+![Jira](https://shields.io)
+![Confluence](https://shields.io)
+![Visio](https://shields.io)
+![draw.io](https://shields.io)
 **TECHNICAL & CORE SKILLS**
 
 **Product & Requirements Management**: Technical Product Management, Product Requirements Documents (PRDs), Requirements Gathering, Functional Specifications (User Stories / Use Cases), Effort Estimation.<br>
