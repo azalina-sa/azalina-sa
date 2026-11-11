@@ -55,10 +55,11 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 <details>
  <summary>Key Impact & Role</summary>
  <br>
-📱 **Authored detailed technical specifications and backend requirements** for digital infrastructure web and mobile applications (iOS/Android), acting as a primary technical bridge between business goals and development/QA teams.
-🔌 **API Specification & Design:** Documented RESTful API contracts and JSON payload schemas using Swagger, mapping data-flow integrations between front-end interfaces and backend services.
-📝 **Technical Writing & PRDs:** Developed end-to-end Product Requirements Documents (PRDs), comprehensive functional requirements (Use Cases / User Stories), and process flow diagrams with zero ambiguity.
-🎯 **Lifecycle Technical Ownership:** Managed specifications from initial stakeholder gathering through UI/UX alignment, effort estimation, and testing (QA), successfully eliminating requirement drift and accelerating time-to-market.
+  
+📱 **Authored detailed technical specifications and backend requirements** for digital infrastructure web and mobile applications (iOS/Android), acting as a primary technical bridge between business goals and development/QA teams.<br>
+🔌 **API Specification & Design:** Documented RESTful API contracts and JSON payload schemas using Swagger, mapping data-flow integrations between front-end interfaces and backend services.<br>
+📝 **Technical Writing & PRDs:** Developed end-to-end Product Requirements Documents (PRDs), comprehensive functional requirements (Use Cases / User Stories), and process flow diagrams with zero ambiguity.<br>
+🎯 **Lifecycle Technical Ownership:** Managed specifications from initial stakeholder gathering through UI/UX alignment, effort estimation, and testing (QA), successfully eliminating requirement drift and accelerating time-to-market.<br>
 </details>
 
 ---
@@ -71,6 +72,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 <details>
  <summary>Key Impact & Role</summary>
  <br>
+  
 📦 **Managed technical documentation and integration specifications** for core Warehouse Management Systems (WMS) across an enterprise logistics infrastructure, translating operational business goals into developer-ready specifications.<br>
 🔄 **WMS Legacy System Modernization (2022–2023)**: Authored technical specifications and functional requirements to transition legacy desktop applications (Delphi/Forte) into a web-based platform, documenting existing system logic and RESTful API contracts (JSON schemas) to accurately preserve and transfer core system functionality.<br>
 📊 **Manhattan WMS Implementation (2020–2022)**: Facilitated requirements gathering sessions with operational stakeholders to define functional requirements and authored comprehensive specifications, end-to-end Use Cases, and process flow diagrams to guide engineering teams.<br>
@@ -85,6 +87,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 <details>
  <summary>Key Impact & Role</summary>
  <br>
+  
  ⚙️ **Actively contributed to the technical integration and deployment** of an automated logistics center, collaborating on the rollout of the PSIwms platform, SSI SCHAEFER conveyor systems, and EuroSort sorting lines.<br>
 📊 **Translated complex business needs** into comprehensive technical requirements and BPMN process flow diagrams to align international hardware and software vendors with product specifications.<br>
 🧪 **Executed rigorous integration and end-to-end (E2E) testing** across software and hardware layers, working through deployment challenges to successfully stabilize and launch the pilot system.<br>
@@ -98,6 +101,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 <details>
  <summary>Key Impact & Role</summary>
  <br>
+  
  🌐 **Contributed to the technical deployment of the Logistic Vision WMS** platform, customizing the system to align with specific customer operational workflows.<br>
 ⚙️ **Designed operational process models (BPMN)** to ensure system integration and monitored vendor development progress against requirements.<br>
 🚀 **Executed user acceptance testing (UAT)** and provided dedicated analytical support during pilot implementation and rollout phases.<br>
