@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ## AZALINA KALEDA -->
+<!-- ## AZALINA KALEDA
 
 **Technical Business Analyst | Technical Product Manager**<br>
-<!-- Email: azalina.kaleda@gmail.com -->
+Email: azalina.kaleda@gmail.com -->
 
 ### PROFESSIONAL SUMMARY
 
-Highly analytical and tech-driven Technical Product Manager / Technical Business Analyst with 14+ years of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
+Highly analytical and tech-driven **Technical Business Analyst / Technical Product Manager** with **14+ years** of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
 
 ---
 
@@ -31,7 +31,7 @@ Highly analytical and tech-driven Technical Product Manager / Technical Business
 
 `REST API` `Swagger / OpenAPI` `JSON` `Apache Kafka` `Oracle DB` `PostgreSQL` `SQL` `Python` `Postman` `Jira` `Confluence` `MS Visio` `draw.io` `BPMN 2.0` `UML`<br> 
 
-!(https://skillicons.dev/icons?i=fastapi,postgres,mysql,kafka,postman,python,git)
+![](https://skillicons.dev/icons?i=fastapi,postgres,mysql,kafka,postman,python,git)
 
 ---
 
