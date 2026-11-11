@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Technical Business Analyst • Technical Product Manager
-
 <!-- ## AZALINA KALEDA
 **Technical Business Analyst | Technical Product Manager**<br>
 ### Technical Business Analyst | Technical Product Manager
