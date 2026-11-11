@@ -25,17 +25,7 @@ Highly analytical and tech-driven Technical Product Manager / Technical Business
 
 ### 🛠 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://jsdelivr.net" alt="Oracle" width="38" height="38" title="Oracle Database"/>
-  <img src="https://jsdelivr.net" alt="PostgreSQL" width="38" height="38" title="PostgreSQL"/>
-  <img src="https://jsdelivr.net" alt="Kafka" width="38" height="38" title="Apache Kafka"/>
-  <img src="https://jsdelivr.net" alt="Swagger" width="38" height="38" title="Swagger / OpenAPI"/>
-  <img src="https://jsdelivr.net" alt="Postman" width="38" height="38" title="Postman"/>
-  <img src="https://jsdelivr.net" alt="JSON" width="38" height="38" title="JSON"/>
-  <img src="https://jsdelivr.net" alt="Python" width="38" height="38" title="Python"/>
-  <img src="https://jsdelivr.net" alt="Jira" width="38" height="38" title="Jira"/>
-  <img src="https://jsdelivr.net" alt="Confluence" width="38" height="38" title="Confluence"/>
-</p><br> 
+`REST API` `Swagger / OpenAPI` `JSON` `Apache Kafka` `Oracle DB` `PostgreSQL` `SQL` `Python` `Postman` `Jira` `Confluence` `MS Visio` `draw.io` `BPMN 2.0` `UML`<br> 
 
 **TECHNICAL & CORE SKILLS**
 
