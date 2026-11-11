@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- ## AZALINA KALEDA -->
 
 **Technical Business Analyst | Technical Product Manager**<br>
-Email: azalina.kaleda@gmail.com 
+<!-- Email: azalina.kaleda@gmail.com -->
 
 ### PROFESSIONAL SUMMARY
 
