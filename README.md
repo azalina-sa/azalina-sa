@@ -1,4 +1,4 @@
-![Banner](Banner2.png)
+![Banner](Banner3.png)
 
 ## Hi there 👋
 
