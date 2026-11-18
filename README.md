@@ -113,7 +113,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ### 🎓 Education & Certifications
 
-* **B.Sc./M.Sc. in Information Technology & Systems Control Engineering** — *Belarusian State University of Informatics and Radioelectronics (BSUIR)* | 2007
+* **B.Sc./M.Sc. in Information Technology & Systems Control Engineering** — *Belarusian State University of Informatics and Radioelectronics (BSUIR)*
 * **Apache Kafka for Developers** — Event-Driven Architecture & Message Brokering | *2025*
 * **Oracle 12c: PL/SQL Fundamentals** — Advanced Relational Database Design & Query Optimization | *2017*
 
