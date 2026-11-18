@@ -82,6 +82,17 @@ Highly analytical and tech-driven **Technical Business Analyst / Senior Systems 
 </details>
 
 ---
+#### **INDEPENDENT SYSTEMS ANALYST** (Contract & Project-Based Roles) | *Moscow* <br>
+**Systems Analyst** • *August 2015 — April 2017*<br>
+
+<details>
+ <summary>Key Impact & Role</summary>
+ <br>
+  
+📋 **Delivered backend requirements, functional specifications,** and system integration documentation across multiple fixed-term enterprise and commercial software projects.<br>
+🔌 **Designed REST API specifications, SQL data models,** and BPMN process diagrams to align business workflows with development teams during rapid project rollouts.<br>
+</details>
+---
 
 #### **MILAVITSA** (Manufacturing & Logistics Network) | *Minsk, Belarus* <br>
 **Technical Business Analyst** • *October 2012 — October 2014*<br>
