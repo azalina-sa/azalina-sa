@@ -25,7 +25,7 @@ Email: azalina.kaleda@gmail.com -->
 
 ### 👤 PROFESSIONAL SUMMARY
 
-Highly analytical and tech-driven **Technical Business Analyst / Technical Product Manager** with **14+ years** of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
+Highly analytical and tech-driven **Technical Business Analyst / Senior Systems Analyst** with **14+ years** of extensive experience in designing backend requirements, platform specifications, and system integrations. Proven track record of translating business goals into precise technical specifications, API contracts, and process flow diagrams across web, mobile, and enterprise platforms. Exceptional skills in driving cross-functional alignment between engineering teams and business stakeholders, managing product scope (PRDs), and ensuring stable feature delivery.<br> 
 
 ---
 
@@ -49,7 +49,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ### 💼 PROFESSIONAL EXPERIENCE
 
-#### **BEELINE** (Top-Tier Telecom Carrier with 50M+ Subscribers) | *Moscow, Russia* <br>
+#### **BEELINE** (Top-Tier Telecom Carrier with 50M+ Subscribers) | *Moscow* <br>
 **Senior Systems Analyst** • *May 2024 — September 2026*<br>
  
 🛠 **Stack:** `Python` `Angular` `React` `PostgreSQL` `Oracle DB` `Apache Kafka` `iOS/Android` `Confluence` `Jira`
@@ -66,7 +66,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Technical Produ
 
 ---
  
-#### **X5 GROUP** (Europe’s Leading Retail & Logistics Network) | *Moscow, Russia* <br>
+#### **X5 GROUP** (Europe’s Leading Retail & Logistics Network) | *Moscow* <br>
 **Senior Systems Analyst / Technical Product Manager** • *May 2017 — November 2023*<br>
  
 🛠 **Stack:** `Java` `Oracle` `SQL` `Manhattan WMS` `Apache Kafka` `Delphi` `Forte` `iOS/Android` `Confluence` `Jira`
