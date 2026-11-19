@@ -92,6 +92,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Senior Systems 
 📋 **Delivered backend requirements, functional specifications,** and system integration documentation across multiple fixed-term enterprise and commercial software projects.<br>
 🔌 **Designed REST API specifications, SQL data models,** and BPMN process diagrams to align business workflows with development teams during rapid project rollouts.<br>
 </details>
+
 ---
 
 #### **MILAVITSA** (Manufacturing & Logistics Network) | *Minsk, Belarus* <br>
