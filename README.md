@@ -102,7 +102,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Senior Systems 
  <summary>Key Impact & Role</summary>
  <br>
   
- ⚙️ **Actively contributed to the technical integration and deployment** of an automated logistics center, collaborating on the rollout of the PSIwms platform, SSI SCHAEFER conveyor systems, and EuroSort sorting lines.<br>
+⚙️ **Actively contributed to the technical integration and deployment** of an automated logistics center, collaborating on the rollout of the PSIwms platform, SSI SCHAEFER conveyor systems, and EuroSort sorting lines.<br>
 📊 **Translated complex business needs** into comprehensive technical requirements and BPMN process flow diagrams to align international hardware and software vendors with product specifications.<br>
 🧪 **Executed rigorous integration and end-to-end (E2E) testing** across software and hardware layers, working through deployment challenges to successfully stabilize and launch the pilot system.<br>
 </details>
@@ -116,7 +116,7 @@ Highly analytical and tech-driven **Technical Business Analyst / Senior Systems 
  <summary>Key Impact & Role</summary>
  <br>
   
- 🌐 **Contributed to the technical deployment of the Logistic Vision WMS** platform, customizing the system to align with specific customer operational workflows.<br>
+🌐 **Contributed to the technical deployment of the Logistic Vision WMS** platform, customizing the system to align with specific customer operational workflows.<br>
 ⚙️ **Designed operational process models (BPMN)** to ensure system integration and monitored vendor development progress against requirements.<br>
 🚀 **Executed user acceptance testing (UAT)** and provided dedicated analytical support during pilot implementation and rollout phases.<br>
 </details>
