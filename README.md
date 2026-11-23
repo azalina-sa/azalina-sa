@@ -43,7 +43,6 @@ Highly analytical and tech-driven **Technical Business Analyst / Senior Systems 
 * **APIs & System Integration**: RESTful API Design, Event-Driven Architecture (Message Brokering), JSON Payload Modeling, Legacy-to-Web System Migration.<br>
 * **Data & Process Modeling:** Relational Data Modeling, Query Optimization, Business Process Modeling, End-to-End Sequence & Data-Flow Design.<br>
 * **Domain Expertise**: Backend Development Logic, Warehouse Management Systems (WMS), PSIwms, Manhattan WMS, Pilot Support.<br>
-* **Domain Expertise:** Warehouse Management Systems (PSIwms, Manhattan WMS), Supply Chain & Logistics Automation, Telecom Digital Platforms, Pilot Launch & UAT Support.<br>
 
 ---
 
